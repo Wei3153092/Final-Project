@@ -31,3 +31,4 @@
 * **Name**: 方冠崴
 * **School**: Yuan Ze University (YZU)
 * **Course**: Data Structures (11402 CS203A)
+> **Note** > 本專案筆記架構與重點提煉採用 **Google Gemini** AI 協助整理。
